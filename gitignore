@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+_pycache_/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs or sniffed outputs
+*.pcap
+*.log
+*.txt
+
+# Virtual environment
+venv/
+.env
